@@ -1,4 +1,4 @@
-package com.company.train05.train04;
+package com.company.train05;
 
 public class RemoveChars {
     public static String remove(String str) {

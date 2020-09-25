@@ -1,0 +1,3 @@
+In this simple assignment you are given a number and have to make it negative. But maybe the number is already negative?
+
+В этом простом задании вам дается число, и вы должны сделать его отрицательным. Но, может быть, число уже отрицательное?
