@@ -1,0 +1,3 @@
+Very simple, given a number, find its opposite.
+
+Очень просто, задав число, найти его противоположность.
